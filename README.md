@@ -13,3 +13,4 @@ This also was my first time implementing an Admin login functiionality.
 
 Another hiccup I encountered was during the use of pytube. Pytube was implemented in the tutorial to extract the audio from the video and turn it into a transcript to feed into OpenAI. I could not use Pytube as the program was going through some known bugs that were impeding users from implementing it. I switched over to yt_dlp which was a bit tricky converting the function in Python. I did end up getting better quality downloading and audio, which was a nice win for me.
 
+In the end, OpenAI was having trouble with accepting my request and responding as I was limited to a certain number of free request and am working it out with them to continue testing
